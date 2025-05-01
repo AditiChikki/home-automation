@@ -6,7 +6,7 @@ This repository contains the source code, hardware architecture, and documentati
 
 This project automates lighting and fan control based on real-time environmental conditions and presence detection. It leverages NodeMCU (ESP8266) with WiFi capabilities, DHT11 temperature sensor, LDR, and an ultrasonic sensor to optimize comfort, safety, and energy efficiency in home environments. Manual override is provided through the Blynk mobile app for remote control.
 
-## 🔧 Features
+## Features
 
 ### Functional Requirements
 - *Automatic Light Control*
